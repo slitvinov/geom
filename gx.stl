@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <Collection>
+    <DataSet timestep="1" group="source9342" part="0" file="gx/gx_source9342T0009.vtm"/>
+    <DataSet timestep="1" group="source9625" part="0" file="gx/gx_source9625T0000.vtm"/>
+  </Collection>
+</VTKFile>
